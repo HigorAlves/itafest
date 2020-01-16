@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4AC2D3FE-E83C-4B8D-A362-D466FEE26B7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AC2D3FE-E83C-4B8D-A362-D466FEE26B7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>itafest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>itafest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600903236.47912204</real>
+			<key>timeStoppedRecording</key>
+			<real>600903246.25172305</real>
+			<key>title</key>
+			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4AC2D3FE-E83C-4B8D-A362-D466FEE26B7C</string>
+		</dict>
+		<key>DF0FDCEF-807C-40E9-BE80-4B6CAB339373</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF0FDCEF-807C-40E9-BE80-4B6CAB339373.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>itafest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>itafest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600903369.40577304</real>
+			<key>timeStoppedRecording</key>
+			<real>600903383.61509299</real>
+			<key>title</key>
+			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DF0FDCEF-807C-40E9-BE80-4B6CAB339373</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

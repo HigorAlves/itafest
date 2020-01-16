@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025513194578",
+    "firebase_url": "https://itafest-app.firebaseio.com",
+    "project_id": "itafest-app",
+    "storage_bucket": "itafest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025513194578:android:f2e3936573c40f9eddcb8b",
+        "android_client_info": {
+          "package_name": "io.studiomvp.itafest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025513194578-j3cfdi9fueotvtrekft11k2hvsc5p2ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.studiomvp.itafest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1025513194578-a0gdeg5nuuvof157roa53g7qflrrjte8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfo04dJDN2jz7STnM30WZgTLHrCSlJR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025513194578-a0gdeg5nuuvof157roa53g7qflrrjte8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025513194578-23gla12o2nf20t990hbgad3c7lk6shkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.studiomvp.itafest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
