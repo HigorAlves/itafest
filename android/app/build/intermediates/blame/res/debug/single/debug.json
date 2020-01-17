@@ -28,12 +28,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -56,28 +56,28 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/interpolator_mtrl_fast_out_slow_in.xml.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/5ddc1d9943b22cdb9499df4f68082c16/res/interpolator/mtrl_fast_out_slow_in.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
@@ -92,12 +92,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
@@ -140,12 +140,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/color/switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -188,12 +188,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/abc_fade_in.xml"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/5ddc1d9943b22cdb9499df4f68082c16/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -292,12 +292,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
@@ -320,16 +320,16 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/5ddc1d9943b22cdb9499df4f68082c16/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/5ddc1d9943b22cdb9499df4f68082c16/res/drawable/ic_mtrl_chip_checked_black.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -356,16 +356,16 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
@@ -408,12 +408,12 @@
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/5ddc1d9943b22cdb9499df4f68082c16/res/color/mtrl_chip_close_icon_tint.xml"
     },
     {
-        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/28311ea2d078dd6f13d50434bfeab885/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
         "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/28311ea2d078dd6f13d50434bfeab885/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/halves/Git/itafest/android/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",

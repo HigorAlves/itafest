@@ -38,15 +38,15 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		jRTynflR3Dy0HI8EdpaXmxfLryg=
+		0HmphIarJU5c9rfFgJgSINlKenA=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		vTRvXOx9a6oGkRdbixJja+0flps=
+		Oe92bBdtbxRen0STN9Oq7Xqm0Qg=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		pBvaEw/6F9JRBgH89owOrBUowQ8=
+		dYZV7XW50pOuA3lZaxsc+YQO8H0=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -115,7 +115,7 @@
 		</data>
 		<key>PlugIns/itafestTests.xctest.dSYM/Contents/Resources/DWARF/itafestTests</key>
 		<data>
-		L4PaI5+I7WF0s1E2fQ5YjI1kNNs=
+		ofnuJZRBOB+tlU+fP3xq/X2bxxA=
 		</data>
 		<key>PlugIns/itafestTests.xctest/Info.plist</key>
 		<data>
@@ -127,7 +127,7 @@
 		</data>
 		<key>PlugIns/itafestTests.xctest/itafestTests</key>
 		<data>
-		BISGvHN2bIGtn5LSe/H07KIQRMU=
+		/vds5I+owTyTfUsR1+5vMuOrHdo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -224,33 +224,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jRTynflR3Dy0HI8EdpaXmxfLryg=
+			0HmphIarJU5c9rfFgJgSINlKenA=
 			</data>
 			<key>hash2</key>
 			<data>
-			97+6kF5Qf2pxQVhbBlVRn9x4hX1o4JNgPX78EcamDx4=
+			9rFJ+XgcRnX+ZEmU6dHIkcNGOay/icuEPr0nTlfI0LY=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vTRvXOx9a6oGkRdbixJja+0flps=
+			Oe92bBdtbxRen0STN9Oq7Xqm0Qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			qI3V1kYgULIc+9YheUA09hc5VWL1i/pUOJJcfQZYHfs=
+			JZXu3au2ewX7tsQF9vj3UctBYn285EjC34036cq+13k=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pBvaEw/6F9JRBgH89owOrBUowQ8=
+			dYZV7XW50pOuA3lZaxsc+YQO8H0=
 			</data>
 			<key>hash2</key>
 			<data>
-			gKgJm56WlTNwcm86a1rTn+TDYrWmcWlGvBsuzvQddW4=
+			y5wnUD/rFutD09m53C/ifDb7LNyS5PB1sPCU3lxIRA4=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -402,11 +402,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L4PaI5+I7WF0s1E2fQ5YjI1kNNs=
+			ofnuJZRBOB+tlU+fP3xq/X2bxxA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5A4jkqTzpt41WGJl5A5T1wXuBhfGwVy47CcAs2gnk+w=
+			igyE/jnkNF+OH4HfNtIOj8d7gp6HeUdAirq94XEIHdI=
 			</data>
 		</dict>
 		<key>PlugIns/itafestTests.xctest/Info.plist</key>
@@ -435,11 +435,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BISGvHN2bIGtn5LSe/H07KIQRMU=
+			/vds5I+owTyTfUsR1+5vMuOrHdo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ToiPLDtINL3lKNcybGupnn2wZKA8PG/ztYXpDYTp9Fw=
+			J3YLvEfEeOkikpX8ZNo5vnOWM+nUBJJKc/SUWxV6RAs=
 			</data>
 		</dict>
 	</dict>
