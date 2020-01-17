@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>DF0FDCEF-807C-40E9-BE80-4B6CAB339373</key>
+		<key>A156F9EE-8836-4DC3-B579-959FA85BF325</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DF0FDCEF-807C-40E9-BE80-4B6CAB339373.xcactivitylog</string>
+			<string>A156F9EE-8836-4DC3-B579-959FA85BF325.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,13 @@
 			<key>signature</key>
 			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>600903369.40577304</real>
+			<real>600969632.21329701</real>
 			<key>timeStoppedRecording</key>
-			<real>600903383.61509299</real>
+			<real>600969637.05781603</real>
 			<key>title</key>
 			<string>Building workspace itafest with scheme itafest and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>DF0FDCEF-807C-40E9-BE80-4B6CAB339373</string>
+			<string>A156F9EE-8836-4DC3-B579-959FA85BF325</string>
 		</dict>
 	</dict>
 </dict>
