@@ -4,7 +4,17 @@
             "outputFile": "/Users/halves/Git/itafest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/93081048f759c3ec96fba31933ad3168/res/values-v16/values-v16.xml",
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/28311ea2d078dd6f13d50434bfeab885/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/095d778b8e451e3bd2c7c66d626481f9/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

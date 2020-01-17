@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jan 16 18:51:18 BRT 2020
+#Thu Jan 16 19:34:00 BRT 2020
 56.path=lib/x86/libfb.so
 5.base=/Users/halves/Git/itafest/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/halves/Git/itafest/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

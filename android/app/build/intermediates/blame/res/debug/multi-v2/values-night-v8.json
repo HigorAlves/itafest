@@ -4,13 +4,13 @@
             "outputFile": "/Users/halves/Git/itafest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/93081048f759c3ec96fba31933ad3168/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/7a16155517f9846a791c117b9a9a4b9b/res/values-night-v8/values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
                     }
                 }
             ]
