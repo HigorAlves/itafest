@@ -13,6 +13,7 @@ MERGED from [:react-native-gesture-handler] /Users/halves/Git/itafest/node_modul
 MERGED from [:react-native-reanimated] /Users/halves/Git/itafest/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/halves/Git/itafest/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/halves/.gradle/caches/transforms-2/files-2.1/3a7322f838d5f969425c376acc37331d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1d616939882d00f32594efb3b6aac8e3/AndroidManifest.xml:2:1-9:12
@@ -239,6 +240,8 @@ MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_mod
 MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/halves/Git/itafest/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/halves/Git/itafest/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/halves/.gradle/caches/transforms-2/files-2.1/3a7322f838d5f969425c376acc37331d/AndroidManifest.xml:7:5-9:41

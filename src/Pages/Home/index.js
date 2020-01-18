@@ -7,6 +7,8 @@ import { View } from 'react-native';
 import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Utils/layout';
 
 const Home = props => {
+	const { navigate } = props.navigation;
+
 	const renderItem = ({ item, index }) => {
 		return (
 			<View
@@ -36,7 +38,7 @@ const Home = props => {
 				/>
 			</SlideContainer>
 			<ContainerButtons>
-				<Button>
+				<Button onPress={() => navigate('Agenda')}>
 					<View>
 						<Title>Programação</Title>
 						<Text>Confira a programação do carnaval</Text>

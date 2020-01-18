@@ -15,7 +15,7 @@ export const Container = styled.View`
 
 export const LoginWithGoogle = styled.TouchableOpacity`
 	background-color: white;
-	width: ${widthPercentageToDP(90)};
+	width: ${widthPercentageToDP(90)}px;
 	height: 40px;
 	border-radius: 20px;
 	justify-content: center;
@@ -23,7 +23,7 @@ export const LoginWithGoogle = styled.TouchableOpacity`
 
 export const LoginWithFacebook = styled.TouchableOpacity`
 	background-color: #3b5998;
-	width: ${widthPercentageToDP(90)};
+	width: ${widthPercentageToDP(90)}px;
 	height: 40px;
 	border-radius: 20px;
 	justify-content: center;
@@ -31,7 +31,7 @@ export const LoginWithFacebook = styled.TouchableOpacity`
 
 export const LoginWithApple = styled.TouchableOpacity`
 	background-color: white;
-	width: ${widthPercentageToDP(90)};
+	width: ${widthPercentageToDP(90)}px;
 	height: 40px;
 	border-radius: 20px;
 	justify-content: center;
@@ -41,5 +41,5 @@ export const ButtonContainer = styled.View`
 	height: 160px;
 	justify-content: space-between;
 	position: absolute;
-	top: ${heightPercentageToDP(65)};
+	top: ${heightPercentageToDP(65)}px;
 `;
