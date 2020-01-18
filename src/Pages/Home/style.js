@@ -40,6 +40,5 @@ export const Text = styled.Text`
 	font-size: ${normalize(10)};
 	font-weight: 300;
 	color: ${Colors.darkPurple};
-	margin-left: 10;
 	opacity: 0.8;
 `;

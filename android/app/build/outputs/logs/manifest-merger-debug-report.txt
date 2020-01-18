@@ -5,11 +5,15 @@ INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml:1:1-27:12
 INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml:1:1-27:12
 MERGED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:@react-native-community_google-signin] /Users/halves/Git/itafest/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_masked-view] /Users/halves/Git/itafest/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:@react-native-firebase_app] /Users/halves/Git/itafest/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/halves/Git/itafest/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/halves/Git/itafest/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/halves/.gradle/caches/transforms-2/files-2.1/3a7322f838d5f969425c376acc37331d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1d616939882d00f32594efb3b6aac8e3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/d4f165991ce77dfe019d12e7a61e83c6/AndroidManifest.xml:2:1-9:12
@@ -39,9 +43,14 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /User
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/54c182efe12c49b98ed31e791ef8dfbf/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9a7122d4457bad6652fc7ad9ba3ea291/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b610591d61df442e8d53e1ddbcaf9bea/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/31b7df13aba5eccc742f13d7a9a35195/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/4a9142c6b14c1e692dd589111e43cdbd/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/20f1f68c097ffa677343dcdabed4d44a/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9efb8ba1193d5617a653f61b20145d6a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/259bd850b6e0da31d7a440cedd2459b9/AndroidManifest.xml:2:1-9:12
@@ -50,10 +59,10 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/1d4f26fc267255b748db30f2d47bac51/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/74f68eca4f6410086af46493917a7afc/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/843fbfea591e169dc821f77beac4a40d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/de4c8435939db188f1a9e12e8b111064/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e0d3b3f77a52313ee05de8fa4a106bd4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b36ae8681e9a5fd1bf0dbe241413cf9c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/d5b700b772ee0e0f817fd72272e0c5ae/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/dbd35742628a93d077dcb6acbd10a533/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/c691fa132dcc799365d43770e2bb0b58/AndroidManifest.xml:17:1-22:12
@@ -94,6 +103,8 @@ INJECTED from /Users/halves/Git/itafest/android/app/src/debug/AndroidManifest.xm
 		ADDED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:22:5-67
@@ -132,12 +143,18 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/cach
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/54c182efe12c49b98ed31e791ef8dfbf/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/54c182efe12c49b98ed31e791ef8dfbf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b610591d61df442e8d53e1ddbcaf9bea/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b610591d61df442e8d53e1ddbcaf9bea/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/20f1f68c097ffa677343dcdabed4d44a/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/20f1f68c097ffa677343dcdabed4d44a/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9efb8ba1193d5617a653f61b20145d6a/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9efb8ba1193d5617a653f61b20145d6a/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/259bd850b6e0da31d7a440cedd2459b9/AndroidManifest.xml:7:5-20
@@ -206,6 +223,12 @@ uses-sdk
 INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/halves/Git/itafest/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_google-signin] /Users/halves/Git/itafest/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_google-signin] /Users/halves/Git/itafest/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_masked-view] /Users/halves/Git/itafest/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/halves/Git/itafest/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-firebase_app] /Users/halves/Git/itafest/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-firebase_app] /Users/halves/Git/itafest/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/halves/Git/itafest/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -216,6 +239,8 @@ MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_mod
 MERGED from [:react-native-safe-area-context] /Users/halves/Git/itafest/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /Users/halves/Git/itafest/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/halves/Git/itafest/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/halves/.gradle/caches/transforms-2/files-2.1/3a7322f838d5f969425c376acc37331d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/halves/.gradle/caches/transforms-2/files-2.1/3a7322f838d5f969425c376acc37331d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1d616939882d00f32594efb3b6aac8e3/AndroidManifest.xml:5:5-44
@@ -274,12 +299,22 @@ MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/halves/.g
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/54c182efe12c49b98ed31e791ef8dfbf/AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9a7122d4457bad6652fc7ad9ba3ea291/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9a7122d4457bad6652fc7ad9ba3ea291/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b610591d61df442e8d53e1ddbcaf9bea/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b610591d61df442e8d53e1ddbcaf9bea/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/31b7df13aba5eccc742f13d7a9a35195/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/31b7df13aba5eccc742f13d7a9a35195/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/4a9142c6b14c1e692dd589111e43cdbd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/4a9142c6b14c1e692dd589111e43cdbd/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/20f1f68c097ffa677343dcdabed4d44a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/20f1f68c097ffa677343dcdabed4d44a/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9efb8ba1193d5617a653f61b20145d6a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/9efb8ba1193d5617a653f61b20145d6a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:20:5-44
@@ -296,14 +331,14 @@ MERGED from [androidx.fragment:fragment:1.1.0] /Users/halves/.gradle/caches/tran
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/74f68eca4f6410086af46493917a7afc/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/843fbfea591e169dc821f77beac4a40d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/843fbfea591e169dc821f77beac4a40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/de4c8435939db188f1a9e12e8b111064/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/de4c8435939db188f1a9e12e8b111064/AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e0d3b3f77a52313ee05de8fa4a106bd4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e0d3b3f77a52313ee05de8fa4a106bd4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b36ae8681e9a5fd1bf0dbe241413cf9c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b36ae8681e9a5fd1bf0dbe241413cf9c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/f2a4a769d72fcc4eed5b1dcc2a0470f4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/d5b700b772ee0e0f817fd72272e0c5ae/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/d5b700b772ee0e0f817fd72272e0c5ae/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/dbd35742628a93d077dcb6acbd10a533/AndroidManifest.xml:20:5-22:41
@@ -352,20 +387,10 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/halves/Git/itafest/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/halves/Git/itafest/android/app/src/debug/AndroidManifest.xml:5:22-75
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:24:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:25:5-68
+ADDED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:25:5-68
@@ -375,7 +400,21 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/cach
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:25:22-65
+		ADDED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/24a700517e75fc355f0bdbe51c86cf8f/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:@react-native-firebase_auth] /Users/halves/Git/itafest/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/1ede5c8c9d4588daa80894663de489de/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/23f06187836864c3f245b87381dd3d3b/AndroidManifest.xml:26:5-110
@@ -430,6 +469,8 @@ service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:33:9-39:19
 	android:exported
 		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/halves/.gradle/caches/transforms-2/files-2.1/a4c07cbb828909dd56442d068186d2b1/AndroidManifest.xml:29:13-37
 	android:name
@@ -464,6 +505,46 @@ action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:42:17-81
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/a3980c2618490b246ad832905cc88a55/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/b321ba0bf7df10eb1524ac2486c4320b/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/e3d5bbac001d344e320aa2a3fdeddf87/AndroidManifest.xml:37:17-109
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:12:9-16:39
 	android:authorities
@@ -475,13 +556,13 @@ ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/ca
 	android:name
 		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/534b30b97b002cf363b68f8e5b5a28ab/AndroidManifest.xml:13:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/fd6add703acd5b2977cebf6deeac389f/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/18492d67fe2d4dd9ea4d5007ce23e391/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/halves/.gradle/caches/transforms-2/files-2.1/1d4f26fc267255b748db30f2d47bac51/AndroidManifest.xml:23:9-25:69
 	android:value

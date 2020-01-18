@@ -20,20 +20,19 @@ const AppNavigator = createStackNavigator(
 		Home: {
 			screen: HomeScreen,
 			navigationOptions: ({ navigation }) => ({
-				headerRight: <AlertHeader/>
+				headerRight: <AlertHeader />
 			})
 		}
 	},
 	{
-		initialRouteName: 'Home',
+		initialRouteName: 'Login',
 		defaultNavigationOptions: {
 			headerStyle: {
 				backgroundColor: Colors.primary,
 				elevation: 0,
 				borderBottomWidth: 0
 			},
-			headerTintColor: '#fff',
-			
+			headerTintColor: '#fff'
 		}
 	}
 );
