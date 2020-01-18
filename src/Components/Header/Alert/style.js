@@ -1,7 +1,7 @@
-import styled from 'styled-components';
+import styled from 'styled-components/native';
 import Colors from '../../../Utils/colors';
 
-export const Container = styled.View`
+export const Container = styled.TouchableOpacity`
 	margin-right: 20;
 `;
 

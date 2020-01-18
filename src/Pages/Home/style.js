@@ -1,6 +1,6 @@
 import styled from 'styled-components/native';
 import Colors from '../../Utils/colors';
-import { widthPercentageToDP, normalize } from '../../Utils/layout';
+import { widthPercentageToDP, normalize, heightPercentageToDP } from '../../Utils/layout';
 
 export const Container = styled.View`
 	flex: 1;
@@ -9,14 +9,14 @@ export const Container = styled.View`
 `;
 
 export const SlideContainer = styled.View`
-	flex: 0.22;
+	height: ${heightPercentageToDP(24)};
 	background-color: ${Colors.primary};
 	width: ${widthPercentageToDP(100)};
 	margin-bottom: 40px;
 `;
 
 export const ContainerButtons = styled.View`
-	flex: 0.5;
+	height: ${heightPercentageToDP(50)};
 	justify-content: space-between;
 `;
 

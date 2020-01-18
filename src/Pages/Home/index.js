@@ -4,12 +4,20 @@ import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Container, Button, SlideContainer, ContainerButtons, Title, Text } from './style';
 import Colors from '../../Utils/colors';
 import { View } from 'react-native';
-import { normalize, widthPercentageToDP } from '../../Utils/layout';
+import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Utils/layout';
 
-const Home = () => {
+const Home = props => {
 	const renderItem = ({ item, index }) => {
 		return (
-			<View style={{ marginTop: 30, height: 100, width: widthPercentageToDP(80), backgroundColor: Colors.blue, borderRadius: 10 }}>
+			<View
+				style={{
+					marginTop: 30,
+					height: heightPercentageToDP(15),
+					width: widthPercentageToDP(80),
+					backgroundColor: Colors.blue,
+					borderRadius: 10
+				}}
+			>
 				<Text>{item.id}</Text>
 			</View>
 		);
