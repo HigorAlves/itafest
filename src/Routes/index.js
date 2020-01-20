@@ -14,6 +14,7 @@ import AuthLoadingScreen from '../Pages/Auth/Loading';
 import SignInScreen from '../Pages/Auth';
 import HomeScreen from '../Pages/Home';
 import AgendaScreen from '../Pages/Agenda';
+import BloquinhosScreen from '../Pages/Bloquinhos';
 
 const AuthStack = createStackNavigator({
 	SignIn: {
@@ -50,7 +51,14 @@ const AppStack = createStackNavigator(
 				title: 'Notificações',
 				animationEnabled: false,
 				headerRight: () => <AlertHeaderSelect />
-				// headerLeft: () => <Hamburguer openDrawer={() => navigation.toggleDrawer()} />
+			})
+		},
+		Blocos: {
+			screen: BloquinhosScreen,
+			navigationOptions: ({ navigation }) => ({
+				title: 'Blocos',
+				animationEnabled: false,
+				headerRight: () => <AlertHeader navigation={navigation} />
 			})
 		}
 	},

@@ -1,0 +1,4 @@
+# Referenced at /Users/halves/Git/itafest/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:18
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/halves/Git/itafest/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:18
+-keep class io.studiomvp.itafest.MainApplication { <init>(); }

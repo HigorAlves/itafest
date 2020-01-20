@@ -52,7 +52,7 @@ const Home = props => {
 					</View>
 					<Icon name='mask' size={normalize(32)} solid color={Colors.blue} style={{ position: 'absolute', right: 0, marginRight: 20 }} />
 				</Button>
-				<Button>
+				<Button onPress={() => navigate('Blocos')}>
 					<View>
 						<Title>Bloquinhos</Title>
 						<Text>Saiba tudo sobre os blocos</Text>
