@@ -52,7 +52,22 @@ const Login = props => {
 
 	async function loginFacebook() {
 		LoginManager.logInWithPermissions(['public_profile', 'email'])
-			.then(() => {})
+			.then(async () => {
+				const data = await AccessToken.getCurrentAccessToken();
+
+				if (!data) {
+					throw new Error('Something went wrong obtaining access token');
+				}
+				const credential = firebase.auth.FacebookAuthProvider.credential(data.accessToken);
+				await firebase
+					.auth()
+					.signInWithCredential(credential)
+					.then(async user => {
+						await AsyncStorage.setItem('userToken', user.user.uid);
+						props.navigation.navigate('App');
+					})
+					.catch(async error => {});
+			})
 			.catch(error => {
 				console.warn(error);
 			});

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 20 16:30:19 BRT 2020
+#Mon Jan 20 19:11:43 BRT 2020
 60.set=NATIVE_RESOURCE
 52.set=NATIVE_RESOURCE
 53.base=/Users/halves/Git/itafest/android/app/build/intermediates/merged_assets/debug/out

@@ -1,13 +1,53 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Carousel from 'react-native-snap-carousel';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Container, Button, SlideContainer, ContainerButtons, Title, Text } from './style';
 import Colors from '../../Utils/colors';
-import { View, Image } from 'react-native';
+import { View, Image, AsyncStorage } from 'react-native';
 import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Utils/layout';
+import { firebase } from '@react-native-firebase/messaging';
 
 const Home = props => {
 	const { navigate } = props.navigation;
+
+	async function getToken() {
+		let fcmToken = await AsyncStorage.getItem('fcmToken');
+
+		if (!fcmToken) {
+			fcmToken = await firebase.messaging().getToken();
+
+			if (fcmToken) {
+				// user has a device token
+				await AsyncStorage.setItem('fcmToken', fcmToken);
+			}
+		}
+	}
+
+	function showAlert(title, body) {
+		Alert.alert(title, body, [{ text: 'OK', onPress: () => console.log('OK Pressed') }], { cancelable: false });
+	}
+
+	async function createNot() {
+		firebase.messaging().onMessage(remoteMessage => {
+			console.log('entrou aqui');
+		});
+	}
+
+	const config = async () => {
+		// await firebase.messaging().deleteToken();
+		const enabled = await firebase.messaging().hasPermission();
+
+		if (enabled) {
+			getToken();
+		} else {
+			await firebase.messaging().requestPermission();
+		}
+	};
+
+	useEffect(() => {
+		config();
+		createNot();
+	}, []);
 
 	const renderItem = ({ item, index }) => {
 		return (
@@ -79,7 +119,16 @@ const Home = props => {
 						style={{ position: 'absolute', right: 0, marginRight: 20 }}
 					/>
 				</Button>
-				<Button>
+				<Button
+					onPress={() => {
+						firebase.firestore().sendMessage({
+							data: {
+								loggedIn: Date.now(),
+								uid: firebase.auth().currentUser.uid
+							}
+						});
+					}}
+				>
 					<View>
 						<Title>Contato</Title>
 						<Text>Entre em contato com a nossa equipe</Text>
