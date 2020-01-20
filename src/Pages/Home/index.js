@@ -3,7 +3,7 @@ import Carousel from 'react-native-snap-carousel';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Container, Button, SlideContainer, ContainerButtons, Title, Text } from './style';
 import Colors from '../../Utils/colors';
-import { View } from 'react-native';
+import { View, Image } from 'react-native';
 import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Utils/layout';
 
 const Home = props => {
@@ -20,7 +20,14 @@ const Home = props => {
 					borderRadius: 10
 				}}
 			>
-				<Text>{item.id}</Text>
+				{/* <Text>{item.id}</Text> */}
+				<Image
+					source={{
+						uri:
+							'https://firebasestorage.googleapis.com/v0/b/seminovosjf-app.appspot.com/o/slides%2Faxt32e_1576328768063.jpeg?alt=media&token=d1f67169-c003-4450-815e-061c5ee7c0a6'
+					}}
+					style={{ width: widthPercentageToDP(80), height: heightPercentageToDP(15), resizeMode: 'cover', borderRadius: 10 }}
+				/>
 			</View>
 		);
 	};
