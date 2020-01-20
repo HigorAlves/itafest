@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="purple">#59499E</color>
+    <color name="white">#FFF</color>
+    <color name="onesignal_bgimage_notif_title_color">#59499E</color>
+    <color name="onesignal_bgimage_notif_body_color">#000000</color>
 </resources>

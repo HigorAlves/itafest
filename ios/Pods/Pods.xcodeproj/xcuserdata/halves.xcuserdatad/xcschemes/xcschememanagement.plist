@@ -129,6 +129,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>OneSignal.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-itafest-tvOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -325,6 +330,11 @@
 			<false/>
 		</dict>
 		<key>react-native-fbsdk.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>react-native-onesignal.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

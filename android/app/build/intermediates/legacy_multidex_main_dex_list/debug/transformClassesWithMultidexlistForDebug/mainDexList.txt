@@ -280,6 +280,7 @@ com/google/android/gms/internal/measurement/zzdb.class
 com/google/android/gms/internal/measurement/zzdc.class
 com/google/android/gms/internal/measurement/zzdd.class
 com/google/android/gms/internal/measurement/zzde.class
+com/google/android/gms/location/ActivityTransition$SupportedActivityTransition.class
 com/google/android/gms/stats/CodePackage.class
 com/google/android/material/appbar/AppBarLayout$LayoutParams$ScrollFlags.class
 com/google/android/material/bottomappbar/BottomAppBar$FabAlignmentMode.class

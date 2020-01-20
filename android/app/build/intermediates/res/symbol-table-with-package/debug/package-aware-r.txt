@@ -726,6 +726,8 @@ color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color onesignal_bgimage_notif_body_color
+color onesignal_bgimage_notif_title_color
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -749,6 +751,7 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1139,6 +1142,7 @@ drawable googleg_standard_color_18
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_os_notification_fallback_white_24dp
 drawable messenger_bubble_large_blue
 drawable messenger_bubble_large_white
 drawable messenger_bubble_small_blue
@@ -1163,6 +1167,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable onesignal_bgimage_default_image
 drawable redbox_top_border_background
 drawable screen
 drawable tooltip_frame_dark
@@ -1358,6 +1363,11 @@ id notification_main_column_container
 id off
 id on
 id open_graph
+id os_bgimage_notif_bgimage
+id os_bgimage_notif_bgimage_align_layout
+id os_bgimage_notif_bgimage_right_aligned
+id os_bgimage_notif_body
+id os_bgimage_notif_title
 id outline
 id page
 id parallax
@@ -1569,6 +1579,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout onesignal_bgimage_notif_layout
 layout redbox_item_frame
 layout redbox_item_title
 layout redbox_view
@@ -1578,6 +1589,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw consumer_onesignal_keep
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
