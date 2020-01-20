@@ -38,7 +38,7 @@ const AppStack = createStackNavigator(
 		},
 		Agenda: {
 			screen: AgendaScreen,
-			navigationOptions: () => ({
+			navigationOptions: ({ navigation }) => ({
 				title: 'Programação do Evento',
 				animationEnabled: false,
 				headerRight: () => <AlertHeader navigation={navigation} />
@@ -55,7 +55,7 @@ const AppStack = createStackNavigator(
 		}
 	},
 	{
-		initialRouteName: 'Notification',
+		initialRouteName: 'Home',
 
 		defaultNavigationOptions: {
 			headerStyle: {

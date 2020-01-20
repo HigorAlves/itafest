@@ -24,7 +24,7 @@ export const Circle = styled.View`
 	height: 30px;
 	width: 30px;
 	border-radius: 30px;
-	border-color: ${Colors.blue};
+	border-color: ${props => (props.color ? props.color : Colors.blue)};
 	border-width: 4px;
 	padding-left: 20px;
 `;
@@ -65,4 +65,27 @@ export const CardButton = styled.TouchableOpacity`
 	width: 10%;
 	border-top-right-radius: 6px;
 	border-bottom-right-radius: 6px;
+	justify-content: center;
+	align-items: center;
+`;
+
+export const TextButton = styled.Text`
+	transform: rotate(270deg);
+	color: #fff;
+	font-size: ${normalize(16)}px;
+`;
+
+export const Picker = styled.Picker`
+	width: ${widthPercentageToDP(76)}px;
+	border-radius: 6px;
+	padding: 0;
+	color: ${Colors.pink};
+	font-weight: bold;
+	font-size: ${normalize(18)}px;
+`;
+
+export const ContainerPicker = styled.View`
+	flex-direction: row;
+	margin-top: 20px;
+	align-items: center;
 `;
