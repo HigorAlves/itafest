@@ -5,9 +5,11 @@ import { createDrawerNavigator } from 'react-navigation-drawer';
 
 import Colors from '../Utils/colors';
 import AlertHeader from '../Components/Header/Alert';
+import AlertHeaderSelect from '../Components/Header/Alert/selectd';
 import Hamburguer from '../Components/Header/Hamburguer';
 
 import DrawerScreen from '../Pages/Drawer';
+import NotificationScreen from '../Pages/Notification';
 import AuthLoadingScreen from '../Pages/Auth/Loading';
 import SignInScreen from '../Pages/Auth';
 import HomeScreen from '../Pages/Home';
@@ -30,19 +32,30 @@ const AppStack = createStackNavigator(
 			navigationOptions: ({ navigation }) => ({
 				title: null,
 				animationEnabled: false,
-				headerLeft: () => <Hamburguer openDrawer={() => navigation.toggleDrawer()} />
+				headerLeft: () => <Hamburguer openDrawer={() => navigation.toggleDrawer()} />,
+				headerRight: () => <AlertHeader navigation={navigation} />
 			})
 		},
 		Agenda: {
 			screen: AgendaScreen,
 			navigationOptions: () => ({
 				title: 'Programação do Evento',
-				animationEnabled: false
+				animationEnabled: false,
+				headerRight: () => <AlertHeader navigation={navigation} />
+			})
+		},
+		Notification: {
+			screen: NotificationScreen,
+			navigationOptions: ({ navigation }) => ({
+				title: 'Notificações',
+				animationEnabled: false,
+				headerRight: () => <AlertHeaderSelect />
+				// headerLeft: () => <Hamburguer openDrawer={() => navigation.toggleDrawer()} />
 			})
 		}
 	},
 	{
-		initialRouteName: 'Home',
+		initialRouteName: 'Notification',
 
 		defaultNavigationOptions: {
 			headerStyle: {
@@ -50,8 +63,7 @@ const AppStack = createStackNavigator(
 				elevation: 0,
 				borderBottomWidth: 0
 			},
-			headerTintColor: '#fff',
-			headerRight: () => <AlertHeader />
+			headerTintColor: '#fff'
 		}
 	}
 );
