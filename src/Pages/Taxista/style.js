@@ -18,6 +18,7 @@ export const Name = styled.Text`
 	font-weight: bold;
 	color: ${Colors.darkPurple};
 	padding-left: 10px;
+	padding-top: 10px;
 `;
 
 export const CarName = styled.Text`
@@ -42,6 +43,6 @@ export const ButtonText = styled.Text`
 	color: #fff;
 	font-weight: bold;
 	text-align: center;
-	font-size: ${normalize(14)};
+	font-size: ${normalize(14)}px;
 	margin-left: 10px;
 `;
