@@ -1142,7 +1142,6 @@ drawable googleg_standard_color_18
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
-drawable ic_os_notification_fallback_white_24dp
 drawable messenger_bubble_large_blue
 drawable messenger_bubble_large_white
 drawable messenger_bubble_small_blue
@@ -1363,11 +1362,6 @@ id notification_main_column_container
 id off
 id on
 id open_graph
-id os_bgimage_notif_bgimage
-id os_bgimage_notif_bgimage_align_layout
-id os_bgimage_notif_bgimage_right_aligned
-id os_bgimage_notif_body
-id os_bgimage_notif_title
 id outline
 id page
 id parallax
@@ -1579,7 +1573,6 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
-layout onesignal_bgimage_notif_layout
 layout redbox_item_frame
 layout redbox_item_title
 layout redbox_view
@@ -1589,7 +1582,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
-raw consumer_onesignal_keep
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1700,6 +1692,7 @@ string facebook_app_id
 string fcm_fallback_notification_channel_label
 string firebase_database_url
 string gcm_defaultSenderId
+string gcm_fallback_notification_channel_label
 string google_api_key
 string google_app_id
 string google_crash_reporting_api_key

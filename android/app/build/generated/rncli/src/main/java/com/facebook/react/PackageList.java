@@ -28,8 +28,8 @@ import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
 import com.facebook.reactnative.androidsdk.FBSDKPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
-// react-native-onesignal
-import com.geektime.rnonesignalandroid.ReactNativeOneSignalPackage;
+// react-native-push-notification
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
@@ -92,7 +92,7 @@ public class PackageList {
       new ReactNativeFirebaseMessagingPackage(),
       new FBSDKPackage(),
       new RNGestureHandlerPackage(),
-      new ReactNativeOneSignalPackage(),
+      new ReactNativePushNotificationPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),

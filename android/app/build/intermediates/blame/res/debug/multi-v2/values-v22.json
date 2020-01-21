@@ -4,7 +4,7 @@
             "outputFile": "/Users/halves/Git/itafest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/1ec59dd1c136d547b15405bdc41a4e86/res/values-v22/values-v22.xml",
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/35a30a2779ccf46f9534c9a5b83150b3/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

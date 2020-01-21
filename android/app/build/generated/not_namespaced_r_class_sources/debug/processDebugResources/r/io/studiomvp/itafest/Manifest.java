@@ -9,9 +9,6 @@ package io.studiomvp.itafest;
 
 public final class Manifest {
   public static final class permission {
-    /**
-     * Create a unique permission for your app and use it so only your app can receive your OneSignal messages.
-     */
     public static final String C2D_MESSAGE="io.studiomvp.itafest.permission.C2D_MESSAGE";
   }
 
