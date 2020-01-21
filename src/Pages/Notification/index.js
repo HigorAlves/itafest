@@ -1,16 +1,36 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import database from '@react-native-firebase/database';
 import { Container, Card, Ball, Text, TimeText, ContainerTime } from './style';
 
 const Notification = () => {
+	const [notification, setNotification] = useState([]);
+
+	async function loadNotifications() {
+		const ref = database().ref(`/notification/`);
+		let data = [];
+		await ref.once('value', snap => {
+			snap.forEach(doc => {
+				data.push({ id: doc.key, ...doc.val() });
+			});
+			setNotification(data);
+		});
+	}
+
+	useEffect(() => {
+		loadNotifications();
+	}, []);
+
 	return (
 		<Container>
-			<Card>
-				<ContainerTime>
-					<Ball />
-					<TimeText>15 minutos atras</TimeText>
-				</ContainerTime>
-				<Text>Alerta de um alerta alertado para ser alertado de alertas olha que alerta mais legal esse aqui</Text>
-			</Card>
+			{notification.map((item, index) => (
+				<Card key={index}>
+					<ContainerTime>
+						<Ball color={item.color} />
+						<TimeText>{item.time}</TimeText>
+					</ContainerTime>
+					<Text>{item.text}</Text>
+				</Card>
+			))}
 		</Container>
 	);
 };

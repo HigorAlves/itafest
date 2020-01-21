@@ -9,6 +9,17 @@ import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Util
 const Home = props => {
 	const { navigate } = props.navigation;
 
+	const slides = [
+		{
+			id: 'studiomvp',
+			image: require('../../Images/slides/slide_studiomvp.jpg')
+		},
+		{
+			id: '360brave',
+			image: require('../../Images/slides/slide_360brave.jpg')
+		}
+	];
+
 	const renderItem = ({ item, index }) => {
 		return (
 			<View
@@ -20,12 +31,8 @@ const Home = props => {
 					borderRadius: 10
 				}}
 			>
-				{/* <Text>{item.id}</Text> */}
 				<Image
-					source={{
-						uri:
-							'https://firebasestorage.googleapis.com/v0/b/seminovosjf-app.appspot.com/o/slides%2Faxt32e_1576328768063.jpeg?alt=media&token=d1f67169-c003-4450-815e-061c5ee7c0a6'
-					}}
+					source={item.image}
 					style={{ width: widthPercentageToDP(80), height: heightPercentageToDP(15), resizeMode: 'cover', borderRadius: 10 }}
 				/>
 			</View>
@@ -36,7 +43,7 @@ const Home = props => {
 		<Container>
 			<SlideContainer>
 				<Carousel
-					data={[{ id: 1 }, { id: 2 }, { id: 3 }]}
+					data={slides}
 					renderItem={renderItem}
 					loop
 					autoplay
@@ -79,19 +86,10 @@ const Home = props => {
 						style={{ position: 'absolute', right: 0, marginRight: 20 }}
 					/>
 				</Button>
-				<Button
-					onPress={() => {
-						firebase.firestore().sendMessage({
-							data: {
-								loggedIn: Date.now(),
-								uid: firebase.auth().currentUser.uid
-							}
-						});
-					}}
-				>
+				<Button>
 					<View>
 						<Title>Contato</Title>
-						<Text>Entre em contato com a nossa equipe</Text>
+						<Text>Deseja ser um parceiro? Entre em contato</Text>
 					</View>
 					<Icon name='headset' size={normalize(32)} solid color={Colors.blue} style={{ position: 'absolute', right: 0, marginRight: 20 }} />
 				</Button>

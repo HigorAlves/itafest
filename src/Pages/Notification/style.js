@@ -5,12 +5,12 @@ import { widthPercentageToDP, normalize } from '../../Utils/layout';
 export const Container = styled.ScrollView`
 	flex: 1;
 	background-color: ${Colors.background};
-	padding-top: 20px;
 `;
 
 export const Card = styled.View`
 	width: ${widthPercentageToDP(90)}px;
 	align-self: center;
+	margin-top: 20px;
 `;
 
 export const ContainerTime = styled.View`
@@ -24,7 +24,7 @@ export const Ball = styled.View`
 	height: 20px;
 	background-color: #fff;
 	border-radius: 20px;
-	border-color: ${Colors.blue};
+	border-color: ${props => (props.color ? props.color : Colors.blue)};
 	border-width: 2.5px;
 `;
 
