@@ -15,6 +15,8 @@ import SignInScreen from '../Pages/Auth';
 import HomeScreen from '../Pages/Home';
 import AgendaScreen from '../Pages/Agenda';
 import BloquinhosScreen from '../Pages/Bloquinhos';
+import AboutBlocoScreen from '../Pages/Bloquinhos/About';
+import TaxistasScreen from '../Pages/Taxista';
 
 const AuthStack = createStackNavigator({
 	SignIn: {
@@ -57,6 +59,22 @@ const AppStack = createStackNavigator(
 			screen: BloquinhosScreen,
 			navigationOptions: ({ navigation }) => ({
 				title: 'Blocos',
+				animationEnabled: false,
+				headerRight: () => <AlertHeader navigation={navigation} />
+			})
+		},
+		AboutBloco: {
+			screen: AboutBlocoScreen,
+			navigationOptions: ({ navigation }) => ({
+				title: 'Nome do Bloco',
+				animationEnabled: false,
+				headerRight: () => <AlertHeader navigation={navigation} />
+			})
+		},
+		Taxistas: {
+			screen: TaxistasScreen,
+			navigationOptions: ({ navigation }) => ({
+				title: 'Taxistas',
 				animationEnabled: false,
 				headerRight: () => <AlertHeader navigation={navigation} />
 			})

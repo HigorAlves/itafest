@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Login from './src/Routes';
+import Routes from './src/Routes';
 import PushNotification from 'react-native-push-notification';
 
 const App = () => {
@@ -11,7 +11,7 @@ const App = () => {
 		});
 	}, []);
 
-	return <Login />;
+	return <Routes />;
 };
 
 export default App;

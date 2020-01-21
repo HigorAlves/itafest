@@ -59,7 +59,7 @@ const Home = props => {
 					</View>
 					<Icon name='fire' size={normalize(32)} solid color={Colors.blue} style={{ position: 'absolute', right: 0, marginRight: 20 }} />
 				</Button>
-				<Button>
+				<Button onPress={() => navigate('Taxistas')}>
 					<View>
 						<Title>Taxistas</Title>
 						<Text>Ande com segurança</Text>
