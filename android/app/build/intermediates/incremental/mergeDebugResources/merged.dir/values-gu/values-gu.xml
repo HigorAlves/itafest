@@ -33,7 +33,7 @@
     <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifest ભૂલ</string>
     <string gender="unknown" name="com_facebook_like_button_liked">ગમ્યું</string>
     <string gender="unknown" name="com_facebook_like_button_not_liked">પસંદ કરો</string>
-    <string gender="unknown" name="com_facebook_loading">લોડ થઈ રહ્યું છે…</string>
+    <string gender="unknown" name="com_facebook_loading">લોડ થાય છે…</string>
     <string gender="unknown" name="com_facebook_loginview_cancel_action">રદ કરો</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button">લૉગ ઇન કરો</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebook સાથે ચાલુ રાખો</string>

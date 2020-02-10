@@ -33,7 +33,7 @@
     <string gender="unknown" name="com_facebook_internet_permission_error_title">Eroare AndroidManifest</string>
     <string gender="unknown" name="com_facebook_like_button_liked">Apreciat</string>
     <string gender="unknown" name="com_facebook_like_button_not_liked">Îmi place</string>
-    <string gender="unknown" name="com_facebook_loading">Se încarcă...</string>
+    <string gender="unknown" name="com_facebook_loading">Se încarcă…</string>
     <string gender="unknown" name="com_facebook_loginview_cancel_action">Anulează</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button">Conectare</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Continuă cu Facebook</string>

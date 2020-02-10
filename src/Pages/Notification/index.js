@@ -26,7 +26,7 @@ const Notification = () => {
 				<Card key={index}>
 					<ContainerTime>
 						<Ball color={item.color} />
-						<TimeText>{item.time}</TimeText>
+						<TimeText>{item.title}</TimeText>
 					</ContainerTime>
 					<Text>{item.text}</Text>
 				</Card>

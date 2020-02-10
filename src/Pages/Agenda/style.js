@@ -42,7 +42,7 @@ export const Card = styled.View`
 	justify-content: space-between;
 	background-color: white;
 	width: ${widthPercentageToDP(76)}px;
-	height: ${heightPercentageToDP(12)}px;
+	height: ${heightPercentageToDP(10)}px;
 	margin-left: 10%;
 	margin-top: 10px;
 	border-radius: 6px;

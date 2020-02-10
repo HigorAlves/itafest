@@ -3,7 +3,7 @@ import Carousel from 'react-native-snap-carousel';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Container, Button, SlideContainer, ContainerButtons, Title, Text } from './style';
 import Colors from '../../Utils/colors';
-import { View, Image } from 'react-native';
+import { View, Image, Linking } from 'react-native';
 import { normalize, widthPercentageToDP, heightPercentageToDP } from '../../Utils/layout';
 
 const Home = props => {
@@ -73,7 +73,7 @@ const Home = props => {
 					</View>
 					<Icon name='taxi' size={normalize(32)} solid color={Colors.blue} style={{ position: 'absolute', right: 0, marginRight: 20 }} />
 				</Button>
-				<Button>
+				<Button onPress={() => navigate('Partners')}>
 					<View>
 						<Title>Parceiros</Title>
 						<Text>Conheça nossos apoiadores</Text>
@@ -86,7 +86,13 @@ const Home = props => {
 						style={{ position: 'absolute', right: 0, marginRight: 20 }}
 					/>
 				</Button>
-				<Button>
+				<Button
+					onPress={() =>
+						Linking.openURL(
+							`whatsapp://send?phone=${5537991100270}&text=Oi, tudo bem? Gostaria de saber sobre a parceria! Entrei em contato via aplicativo ItaFest`
+						)
+					}
+				>
 					<View>
 						<Title>Contato</Title>
 						<Text>Deseja ser um parceiro? Entre em contato</Text>

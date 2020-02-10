@@ -140,6 +140,8 @@ androidx/versionedparcelable/NonParcelField.class
 androidx/versionedparcelable/ParcelField.class
 androidx/versionedparcelable/VersionedParcelize.class
 androidx/viewpager/widget/ViewPager$DecorView.class
+com/android/installreferrer/api/InstallReferrerClient$InstallReferrerResponse.class
+com/android/installreferrer/api/InstallReferrerClientImpl$ClientState.class
 com/facebook/cache/disk/DefaultDiskStorage$FileType.class
 com/facebook/common/internal/DoNotStrip.class
 com/facebook/common/internal/Objects.class
@@ -185,6 +187,8 @@ com/facebook/infer/annotation/ThreadConfined.class
 com/facebook/infer/annotation/ThreadSafe.class
 com/facebook/infer/annotation/TrueOnNull.class
 com/facebook/infer/annotation/Verify.class
+com/facebook/internal/instrument/crashreport/AutoHandleExceptions.class
+com/facebook/internal/instrument/crashreport/NoAutoExceptionHandling.class
 com/facebook/proguard/annotations/DoNotStrip.class
 com/facebook/proguard/annotations/KeepGettersAndSetters.class
 com/facebook/react/PackageList.class

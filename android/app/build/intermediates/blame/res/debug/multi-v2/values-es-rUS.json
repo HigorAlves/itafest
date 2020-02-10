@@ -4,6 +4,23 @@
             "outputFile": "/Users/halves/Git/itafest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/dca59623ba2dfd7a28ac7edade62e335/res/values-es-rUS/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "204",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4014",
+                        "endColumns": "204",
+                        "endOffsets": "4214"
+                    }
+                },
+                {
                     "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/dfa1597c1c36870c5c01305d2665f21f/res/values-es-rUS/values.xml",
                     "from": {
                         "startLines": "4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/d8cb2b387452f72373e1a5d637dafa17/res/values-es-rUS/values.xml",
+                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/6ce060b67273f04644392e04e80f61af/res/values-es-rUS/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -86,23 +103,6 @@
                         "startOffsets": "105,225,334,442,527,629,745,830,911,1002,1094,1189,1283,1383,1476,1575,1671,1762,1853,1934,2041,2140,2239,2347,2455,2562,2721,5846",
                         "endColumns": "119,108,107,84,101,115,84,80,90,91,94,93,99,92,98,95,90,90,80,106,98,98,107,107,106,158,99,81",
                         "endOffsets": "220,329,437,522,624,740,825,906,997,1089,1184,1278,1378,1471,1570,1666,1757,1848,1929,2036,2135,2234,2342,2450,2557,2716,2816,5923"
-                    }
-                },
-                {
-                    "source": "/Users/halves/.gradle/caches/transforms-2/files-2.1/c069b7873da3396971e7ad23146335c6/res/values-es-rUS/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "204",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4014",
-                        "endColumns": "204",
-                        "endOffsets": "4214"
                     }
                 }
             ]

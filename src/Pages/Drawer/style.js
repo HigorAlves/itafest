@@ -16,7 +16,7 @@ export const ContainerProfile = styled.View`
 export const LogoutButton = styled.TouchableOpacity`
 	position: absolute;
 	bottom: 0px;
-	background-color: ${Colors.pink};
+	background-color: ${Colors.darkPurple};
 	padding: 10px;
 	width: 100%;
 `;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Linking, View } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome5';
-import { Container, Card, Name, CarName, CallButton, ButtonText } from './style';
+import { Container, Card, Name, CarName, CallButton, ButtonText, WhatsappButton } from './style';
 import { normalize } from '../../Utils/layout';
 import Colors from '../../Utils/colors';
 
@@ -20,10 +20,22 @@ const Taxista = () => {
 						<CarName>PPP-1111</CarName>
 					</View>
 				</View>
-				<CallButton onPress={() => Linking.openURL(`tel:${37991100270}`)}>
-					<Icon name='phone' solid color='#fff' size={normalize(14)} />
-					<ButtonText>Ligar</ButtonText>
-				</CallButton>
+				<View style={{ dispay: 'flex', flexDirection: 'row' }}>
+					<CallButton onPress={() => Linking.openURL(`tel:${37991100270}`)}>
+						<Icon name='phone' solid color='#fff' size={normalize(14)} />
+						<ButtonText>Ligar</ButtonText>
+					</CallButton>
+					<WhatsappButton
+						onPress={() =>
+							Linking.openURL(
+								`whatsapp://send?phone=${5537991100270}&text=i, tudo bem? Gostaria de combinar uma corrida! Entrei em contato via aplicativo ItaFest`
+							)
+						}
+					>
+						<Icon name='whatsapp' solid color='#fff' size={normalize(14)} />
+						<ButtonText>Whatsapp</ButtonText>
+					</WhatsappButton>
+				</View>
 			</Card>
 		</Container>
 	);

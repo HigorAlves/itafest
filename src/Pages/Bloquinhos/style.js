@@ -19,8 +19,7 @@ export const Card = styled.TouchableOpacity`
 `;
 
 export const CardLogo = styled.Image`
-	width: 60px;
-	height: ${heightPercentageToDP(9)}px;
+	width: 80px;
 `;
 
 export const Title = styled.Text`
